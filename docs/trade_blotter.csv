@@ -1,0 +1,11 @@
+Entry Date,Exit Date,Entry Price,Exit Price,Position Size,Direction,Outcome
+2024-06-17,2024-06-20,187.44,181.57,100,Long,Stop Loss Triggered
+2024-06-26,2024-07-11,196.37,241.03,100,Long,Timeout (Profit)
+2024-09-19,2024-09-20,243.92,238.25,100,Long,Stop Loss Triggered
+2024-09-23,2024-10-03,250.0,240.66,100,Long,Stop Loss Triggered
+2024-11-06,2024-11-20,288.53,342.03,100,Long,Timeout (Profit)
+2024-12-06,2024-12-20,389.22,421.06,100,Long,Timeout (Profit)
+2025-05-12,2025-05-27,318.38,362.89,100,Long,Timeout (Profit)
+2025-09-11,2025-09-25,368.81,423.39,100,Long,Timeout (Profit)
+2025-11-03,2025-11-04,468.37,444.26,100,Long,Stop Loss Triggered
+2025-12-16,2025-12-17,489.88,467.26,100,Long,Stop Loss Triggered
